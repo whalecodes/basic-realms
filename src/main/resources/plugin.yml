@@ -1,0 +1,6 @@
+name: basic-realms
+version: '1.0.0'
+main: codes.whale.realms.basic.RealmsPlugin
+api-version: '1.21'
+depend: [ CommandAPI, polarpaper ]
+load: STARTUP
